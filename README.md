@@ -43,3 +43,23 @@ This project helped explore Netflix content trends and develop practical skills 
 Shrutika Sanjay Thorat
 
 Aspiring Data Analyst
+
+## Project Visualizations
+
+### 1. Content Type Distribution
+![Content Type Distribution](content_type_distribution.png)
+
+### 2. Release Year Distribution
+![Release Year Distribution](release_year_distribution.png)
+
+### 3. Rating Distribution
+![Rating Distribution](rating_distribution.png)
+
+### 4. Top 10 Countries
+![Top 10 Countries](Top_10_distribution.png)
+
+### 5. Movies vs TV Shows
+![Movies vs TV Shows](movies_vs_tv_distribution.png)
+
+### 6. Top Directors
+![Top Directors](top_directors.png)
